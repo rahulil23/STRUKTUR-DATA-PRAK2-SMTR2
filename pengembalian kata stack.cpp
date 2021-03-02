@@ -1,8 +1,3 @@
-//Nama    	: Dewi Nur Arifah
-//NIM 		: 20051397079
-//KELAS 	: 2020-A
-// (3) STACK
-
 #include <stdio.h>
 #include <conio.h>
 #include <string.h>
